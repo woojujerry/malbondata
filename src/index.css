@@ -1,0 +1,33 @@
+html {
+  color: rgb(51, 51, 51);
+  font-family: "Red Hat Display", "Noto Sans KR", "Malgun Gothic", "맑은 고딕", AppleGothic, Dotum, 돋움, sans-serif;
+  font-size: 12px;
+  line-height: 1.6;
+  vertical-align: baseline;
+  margin: 0px;
+  padding: 0px;
+  border-width: 0px;
+  border-style: initial;
+  border-color: initial;
+  border-image: initial;
+  outline: 0px;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+ul, li, ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
